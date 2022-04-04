@@ -1,0 +1,8 @@
+Introdução 
+<html>
+  <head>
+    <meta>       --->>>  elemeto é a base do html, começa com uma tag de abertura < > + tipo do elemento  + atributo
+				+ conteudo + fechamento
+			head contém meta informações para os navegadores
+
+<body>   onde fica o conteudo da pagina
