@@ -1,0 +1,14 @@
+Pensamento computacional
+
+O que é? Referes-se ao processo de pensamento que envolve a expressão de soluções em passos computacionais ou algorítimos que podem ser
+implementados no computador. O ser humano e a máquina vão entender esse pensamento.
+
+Dividir o problema em subproblemas 
+
+Decomposição (Dividir o problema maior em partes menores - ex: receita de bolo 1-massa 2-recheio 3-cobertura
+
+Reconhecer padrões (tendencia padrão comportamental)
+
+Abstração (pegar algo particular e automatizar)
+
+Desing de Algorítimo (Automatizar)
